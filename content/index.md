@@ -1,9 +1,9 @@
 ---
-title: DEMOTAPE
+title: Beki-Knowledge-Platform
 ---
 
 
-__Welcome to the DEMOTAPE knowledge platform__
+__Welcome to the Beki-Knowledge-Platform
 
 This site connects:
 - 📚 archival material  
